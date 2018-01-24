@@ -1,0 +1,11 @@
+{
+  "name": "fonts-tot",
+  "description": "Fonts to Tot",
+  "main": [
+    "dist/style.css"
+  ],
+  "authors": [
+	{ "name": "Carlos Villavicencio Vasquez", "homepage": "https://github.com/CarlosVillavicencio" }
+  ],
+  "license": "MIT"
+}
