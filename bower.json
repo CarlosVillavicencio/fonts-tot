@@ -2,7 +2,8 @@
   "name": "fonts-tot",
   "description": "Fonts to Tot",
   "main": [
-    "css/style.css"
+    "css/style.css",
+	"fonts/*"
   ],
   "authors": [
 	{ "name": "Carlos Villavicencio Vasquez", "homepage": "https://github.com/CarlosVillavicencio" }
