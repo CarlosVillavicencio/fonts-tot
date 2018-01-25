@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?xxmb9h');
-  src:  url('fonts/icomoon.eot?xxmb9h#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?xxmb9h') format('truetype'),
-    url('fonts/icomoon.woff?xxmb9h') format('woff'),
-    url('fonts/icomoon.svg?xxmb9h#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?vhtmk9');
+  src:  url('fonts/icomoon.eot?vhtmk9#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?vhtmk9') format('truetype'),
+    url('fonts/icomoon.woff?vhtmk9') format('woff'),
+    url('fonts/icomoon.svg?vhtmk9#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.tot-icon-lotus:before {
+.tot-icon-anclaok:before {
   content: "\e900";
+}
+.tot-icon-capitan:before {
+  content: "\e901";
+}
+.tot-icon-escudo:before {
+  content: "\e902";
+}
+.tot-icon-lotus:before {
+  content: "\e903";
+}
+.tot-icon-mal_tiempo:before {
+  content: "\e904";
 }
